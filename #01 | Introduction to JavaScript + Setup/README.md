@@ -17,6 +17,6 @@
 ## How to execute JavaScript ?
 ### JavaScript can be executed right inside one's browser you can open the javaScript cansole and start writing javaScript there
 
-### Another way to execute javaScript is a runtime like Node.js which can be installed and used to run javaScript code.
+### Another way to execute j    avaScript is a runtime like Node.js which can be installed and used to run javaScript code.
 
 ### Yet another way to execute javaSceript is by inserting it inside <script> tag of an HTML document.
