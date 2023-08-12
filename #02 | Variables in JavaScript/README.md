@@ -18,9 +18,4 @@
 ### - javascript reserved words cannot be used as a variable name 
 ### vicky and VICKY are different variable (case sensitive).
 
-## var  vs let in javascript
-
-### var is globally scoped while let & const are block scoped.
-### var can be update &  re-declared within its scope.
-### let can be updated but not re-declared.
   
