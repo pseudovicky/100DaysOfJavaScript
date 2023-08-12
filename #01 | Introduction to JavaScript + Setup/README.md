@@ -19,4 +19,4 @@
 
 ### Another way to execute javaScript is a runtime like Node.js which can be installed and used to run javaScript code.
 
-### Yet another way to execute javaSceript is by insert it inside <script> tag of an HTML document.
+### Yet another way to execute javaSceript is by inserting it inside <script> tag of an HTML document.
