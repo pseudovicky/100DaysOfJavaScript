@@ -38,3 +38,17 @@ const p = {
   student["age"] = 23
   console.log(student) 
   
+  // 5. Write a js problem to create a word- meaning dictionary of 5 words.
+  
+  const dict = {
+    appreciate: "recognize the full worth of.",
+    ataraxia: "a state of freedom from emotional disturbance and anxiety",
+    yakka: "work, especially hard work.",
+    chill : "to relax and not feel angry or nervous about anything",
+    anxiety: "a feeling of worry or fear, especially about the future",
+  }
+  
+  console.log(dict)
+  
+  console.log(dict["anxiety"])
+  console.log(dict.yakka)
