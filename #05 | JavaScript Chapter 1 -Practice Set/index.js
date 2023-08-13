@@ -22,3 +22,19 @@ const p = {
   // No, We can not change the value of const.
   
   
+  // 4. Try to add a new key to the const object in problem 3 were you able to do it ?
+  
+  const student = {
+    name : "Vicky",
+    enrollment : 194192850,
+    university : "IGNOU",
+  }
+  console.log(student)
+  
+  student["Program"] = "BCA"
+  console.log(student)
+  student["age"] = 20
+  console.log(student)
+  student["age"] = 23
+  console.log(student) 
+  
