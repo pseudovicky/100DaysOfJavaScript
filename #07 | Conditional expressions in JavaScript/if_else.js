@@ -1,4 +1,5 @@
 // If else conditional statement :-
+
 let age = parseInt(prompt("Hey, Whats your age? "))
 
 if(age>=18){
