@@ -10,3 +10,6 @@ alert("This is a alert!")
 age = Number.parseInt(age)
 console.log(age, typeof age)
 
+if(age>18){
+    alert("You can drive !")
+}
