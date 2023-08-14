@@ -5,12 +5,22 @@
 
 ## 1. Arithmetic Operators :-
 
-    +   Addition
-    -   Subtraction
-    *   Multiplication
-    **  Exponentiation
-    /   Division
-    %   Modulus
-    ++  Increment
-    --  Decrement
+    +     Addition
+    -     Subtraction
+    *     Multiplication
+    **    Exponentiation
+    /     Division
+    %     Modulus
+    ++    Increment
+    --    Decrement
 
+
+## 2. Assignment Operators :-
+
+    =      x = y
+    +=     x = x+y
+    -=     x = x-y
+    *=     x = x*y
+    /=     x = x/y
+    %=     x = x%y
+    **=     x = x**y
