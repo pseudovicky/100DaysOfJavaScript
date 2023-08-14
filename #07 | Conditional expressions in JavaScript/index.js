@@ -10,5 +10,3 @@ alert("This is a alert!")
 age = Number.parseInt(age)
 console.log(age, typeof age)
 
-
-}
