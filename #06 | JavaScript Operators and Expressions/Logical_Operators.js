@@ -15,3 +15,10 @@ console.log(x>y || x>=y)
 
 console.log(!false)
 console.log(!true)
+
+/*
+this is 
+multiline 
+comment 
+in javascript 
+*/
