@@ -19,7 +19,7 @@ if(condition){
 The if statement evaluates the condition inside the () if the condition is evaluated to true, the code is not executed.
 
 
-### if- else statement
+## if- else statement
 
 The if statement can have an optional else clause. The syntax looks like this
 if(condition){
@@ -30,7 +30,7 @@ if(condition){
 
 if the condition is true, code inside if iss executed else code inside else block is executed
 
-### if else if statement
+## if else if statement
 
 Sometimes we might want to keep checking a set of conditions one by one until one mmatches. we use if else if for achieving this.
 
@@ -44,3 +44,11 @@ if(condition){
 }else{
   // last this code
 }
+
+## Ternary Operator:-
+
+Evaluates a condition and executes a block of code based on the condition.
+condition ? exp1 : exp2
+
+Example syntax of ternary operator looks like this:
+(marks >= 40) ? "Pass" : "Fail"
