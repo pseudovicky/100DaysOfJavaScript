@@ -44,3 +44,10 @@
   ||  logical or
   !   logical not
 
+# 5. Bitwise operators:- 
+
+Apart from these, we also have type and bitwise operators. bitwise operators perform bit by bit operations on numbers.
+eg:- 7+8 = 15 
+where 7 is an operads and + operator .
+
+comments in javascript sometimes we want our programs to contain a text which is not exicuted by the js engine such a text is called comment in javascript.
