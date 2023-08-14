@@ -29,3 +29,18 @@ if(condition){
 }
 
 if the condition is true, code inside if iss executed else code inside else block is executed
+
+### if else if statement
+
+Sometimes we might want to keep checking a set of conditions one by one until one mmatches. we use if else if for achieving this.
+
+  Stntax of if else if looks like this
+if(condition){
+    // this code
+}else if(condition){
+  // this code
+}else if{
+  // this code
+}else{
+  // last this code
+}
