@@ -38,3 +38,9 @@
     <=   less than or equal to
     ?    ternary Operator
 
+# 4. Logical Operators :-
+
+  &&  logical and
+  ||  logical or
+  !   logical not
+
