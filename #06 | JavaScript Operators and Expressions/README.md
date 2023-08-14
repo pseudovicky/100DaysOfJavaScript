@@ -24,3 +24,17 @@
     /=     x = x/y
     %=     x = x%y
     **=     x = x**y
+
+
+## 3. Comparison Operators:- 
+
+    ==   equal to
+    !=   not equal 
+    ===  Equal value and type
+    !==  not equal value or not equal type
+    >    Greater than
+    <    Less than
+    >=   Greater than or equal to
+    <=   less than or equal to
+    ?    ternary Operator
+
