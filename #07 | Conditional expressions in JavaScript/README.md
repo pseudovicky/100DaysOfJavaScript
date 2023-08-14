@@ -18,6 +18,7 @@ if(condition){
 
 The if statement evaluates the condition inside the () if the condition is evaluated to true, the code is not executed.
 
+
 ### if- else statement
 
 The if statement can have an optional else clause. The syntax looks like this
