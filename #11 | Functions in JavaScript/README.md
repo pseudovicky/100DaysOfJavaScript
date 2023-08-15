@@ -8,6 +8,7 @@ function myFunc(){
   //code
 }
 
+
 function vinod(parameter1, parameter2){
   // dekh rha hai na vinod yahi function ka syntax hai
 }
