@@ -8,7 +8,11 @@ function myFunc(){
   //code
 }
 
+### Function Defination :-
 
 function vinod(parameter1, parameter2){
   // dekh rha hai na vinod yahi function ka syntax hai
 }
+
+### function calling
+vinod(2,6)

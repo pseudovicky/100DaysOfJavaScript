@@ -1,1 +1,2 @@
 // Functions in JavaScript 
+
