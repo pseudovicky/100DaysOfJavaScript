@@ -10,5 +10,5 @@ let marks = {
 }
 
 for (let i in marks){
-  console.log(marks[i])
+    console.log("marks of "+ i + " is = " + marks[i])
 }
