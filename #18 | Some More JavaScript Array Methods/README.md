@@ -10,3 +10,15 @@ a changes to given output
 sort() takes an optional compare function. if this function is provided as the first argument. 
 the sort() function will consider these values (the values returned from the compare function) as the basis of sorting.
 
+### slice() method
+
+slices out a piece from an array. It creates a new array.
+
+const num = [1,2,3,4]
+      num.slice(2) -> [3,4]
+      num.slice(1,3) -> [2,3]
+
+### reverse() method 
+
+Reverses the elements in the source array.
+  
