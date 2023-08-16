@@ -8,3 +8,4 @@ The Ultimate Java Script Course for Beginners by CodeWithHarry.
 ## 05. JavaScript Chapter 1 -Practice Set
 ## 06. JavaScript Operators and Expressions
 ## 07. Conditional expressions in JavaScript
+## 08. JavaScript Chapter 2 - Practice Set on Operators and Conditionals 
