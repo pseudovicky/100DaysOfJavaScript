@@ -33,3 +33,17 @@ console.log(msg.endsWith("ing!") ? "Sahi baat hai" : "No its wrong")
 console.log(msg.startsWith("Good",0) ? "Sahi baat hai" : "No its wrong")
 console.log(msg.endsWith("ing!",13) ? "Sahi baat hai" : "No its wrong")
 
+// problem 3 solution
+
+let h = "HELLO"
+p = h.toLowerCase()
+console.log(h,p)
+
+// problem 4 solution
+
+let str2 = "Please give Rs 1000"
+let amount = str2.slice("Please give Rs ".length)
+console.log(amount,typeof amount)
+amount = Number.parseInt(amount)
+console.log(typeof amount, amount)
+
