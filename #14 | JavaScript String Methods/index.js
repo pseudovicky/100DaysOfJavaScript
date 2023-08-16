@@ -14,3 +14,8 @@ console.log(name.toLowerCase())
 console.log(name.slice(2,8))
 console.log(name.slice(2))
 console.log(name.slice(0,10))
+
+// replace
+let data = "This is a string"
+console.log(data)
+console.log(data.replace("string","replaced"))
