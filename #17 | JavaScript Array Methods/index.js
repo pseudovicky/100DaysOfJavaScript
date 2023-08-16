@@ -22,5 +22,22 @@ console.log(num)
 z = num.copyWithin()
 console.log(z, typeof z)
 
-
+// shift()
 console.log(num)
+s = num.shift()
+console.log(s)
+
+// unshift()
+us = num.shift()
+console.log(us)
+
+// delete
+console.log(num)
+delete num[0]
+console.log(num)
+
+// concat()
+let a1 = [1,2,3]
+let a2 = [3,4,5,6]
+let a3 = [4,10,8,9]
+console.log(a1.concat(a2,a3))
