@@ -14,3 +14,4 @@ The Ultimate Java Script Course for Beginners by CodeWithHarry.
 ## 11. Functions in JavaScript
 ## 12. JavaScript Chapter 3 - Practice Set on Loops and Functions
 ## 13. Introduction to Strings
+## 14. JavaScript String Methods
