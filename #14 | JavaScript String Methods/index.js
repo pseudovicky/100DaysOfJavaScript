@@ -9,3 +9,8 @@ console.log(name.toUpperCase())
 
 // toLowerCase()
 console.log(name.toLowerCase())
+
+// slice
+console.log(name.slice(2,8))
+console.log(name.slice(2))
+console.log(name.slice(0,10))
