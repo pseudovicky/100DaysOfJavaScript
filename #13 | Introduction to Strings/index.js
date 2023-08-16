@@ -36,3 +36,13 @@ let boy2 = "Ritesh"
 // let sentance = `boy2 is a friend of boy1`
 let sentance = `${boy2} is friend of ${boy1}`
 console.log(sentance)
+
+
+// Escape sequence characters
+
+console.log("ab\"cd")
+console.log('ab\'cd')
+console.log(`ab\`cd`)
+console.log("ab\ncd")
+console.log("ab\tcd")
+console.log("ab\rcd")
