@@ -16,4 +16,8 @@ let sentance = ` The name "is" Vicky's `
 (``) backtick    ("") double quotes   (') single quote
 
 we can insert variables directly in template literal. This is called string interpolation  
+let a = `This is a ${name}`
+print - This is a vicky
+
+
 
