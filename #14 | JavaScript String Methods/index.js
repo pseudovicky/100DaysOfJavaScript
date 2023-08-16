@@ -37,3 +37,10 @@ Strings are immutable . In order to access the character at an index we use the 
       name[1] -> print i
 
 */
+
+// Use a for loop to print each character of a string.
+
+let str1 = "Print this string using for loop."
+for(let i=0; i< str1.length;i++){
+    console.log(str1[i])
+}
