@@ -33,4 +33,5 @@ let name = "Mr\"s Vicky Kumar"
 Other escape sequence characters are as follows 
 
 \n = newline
-
+\t = tab
+\r = carriage return
