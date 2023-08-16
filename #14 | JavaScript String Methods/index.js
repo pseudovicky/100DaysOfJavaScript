@@ -6,3 +6,6 @@ console.log(name.length)
 
 // toUpperCase()
 console.log(name.toUpperCase())
+
+// toLowerCase()
+console.log(name.toLowerCase())
