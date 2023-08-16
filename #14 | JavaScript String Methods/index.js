@@ -29,3 +29,11 @@ console.log(fname.concat(" ", lname))
 let line = "   this have some white spaces.  "
 console.log(line)
 console.log(line.trim())
+
+/*
+Strings are immutable . In order to access the character at an index we use the fllowing syntax.
+  let name = "vicky"
+      name[0] -> print v
+      name[1] -> print i
+
+*/
