@@ -12,3 +12,4 @@ The Ultimate Java Script Course for Beginners by CodeWithHarry.
 ## 09. For Loops in JavaScript
 ## 10. While Loops in JavaScript
 ## 11. Functions in JavaScript
+## 12. JavaScript Chapter 3 - Practice Set on Loops and Functions
