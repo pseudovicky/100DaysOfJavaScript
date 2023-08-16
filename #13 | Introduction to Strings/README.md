@@ -19,5 +19,18 @@ we can insert variables directly in template literal. This is called string inte
 let a = `This is a ${name}`
 print - This is a vicky
 
+### Escape sequence characters 
 
+If you try to print the following string, javascript will misunderstand it.
+  let name = `Mr's vicky Kumar`
+
+we can use single quote escape sequence to solve the problem
+let name = 'Mr\'s Vicky Kumar'
+
+Similarly we can use \" inside a string with double quotes"
+let name = "Mr\"s Vicky Kumar"
+
+Other escape sequence characters are as follows 
+
+\n = newline
 
