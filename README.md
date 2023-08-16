@@ -11,3 +11,4 @@ The Ultimate Java Script Course for Beginners by CodeWithHarry.
 ## 08. JavaScript Chapter 2 - Practice Set on Operators and Conditionals 
 ## 09. For Loops in JavaScript
 ## 10. While Loops in JavaScript
+## 11. Functions in JavaScript
