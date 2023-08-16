@@ -8,3 +8,4 @@ for(let i=0;i<num.length;i++){
 num.forEach((element)=>{
   console.log(element*element)
 })
+
