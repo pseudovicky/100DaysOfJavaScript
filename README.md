@@ -7,3 +7,4 @@ The Ultimate Java Script Course for Beginners by CodeWithHarry.
 ## 04. Primitives and Objects in JavaScript
 ## 05. JavaScript Chapter 1 -Practice Set
 ## 06. JavaScript Operators and Expressions
+## 07. Conditional expressions in JavaScript
