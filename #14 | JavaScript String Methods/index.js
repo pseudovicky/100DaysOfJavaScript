@@ -19,3 +19,8 @@ console.log(name.slice(0,10))
 let data = "This is a string"
 console.log(data)
 console.log(data.replace("string","replaced"))
+
+// concat
+let fname = "vicky"
+let lname = "Kumar"
+console.log(fname.concat(" ", lname))
