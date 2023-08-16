@@ -47,3 +47,7 @@ console.log(amount,typeof amount)
 amount = Number.parseInt(amount)
 console.log(typeof amount, amount)
 
+//  problem 5 solution
+let friend = "Deepika"
+friend[3] = "r"
+console.log(friend) // friend is not change coz str is not mutable
