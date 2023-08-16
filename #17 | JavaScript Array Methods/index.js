@@ -26,10 +26,12 @@ console.log(z, typeof z)
 console.log(num)
 s = num.shift()
 console.log(s)
+console.log(num,num.length)
 
 // unshift()
-us = num.shift()
-console.log(us)
+us = num.unshift(7)
+console.log(us) // it returns new length
+console.log(num,num.length)
 
 // delete
 console.log(num)
@@ -41,3 +43,4 @@ let a1 = [1,2,3]
 let a2 = [3,4,5,6]
 let a3 = [4,10,8,9]
 console.log(a1.concat(a2,a3))
+
