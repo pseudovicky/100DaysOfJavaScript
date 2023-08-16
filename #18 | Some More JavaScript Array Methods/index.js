@@ -16,8 +16,27 @@ console.log(z, typeof z)
 // sort() method
 
 // alphabetically sorted as string
+
+// let mn = [1,8,90,87,54,43,5,50,9]
+// console.log(mn)
+// mn.sort()
+// console.log(mn)
+
+
+// ascending order sorting
+// let compare = (a,b) =>{
+//   return a-b
+// }
+// let mn = [1,8,90,87,54,43,5,50,9]
+// console.log(mn)
+// mn.sort(compare)
+// console.log(mn)
+
+// descending order sorting
+let compare = (a,b) =>{
+  return b-a
+}
 let mn = [1,8,90,87,54,43,5,50,9]
 console.log(mn)
-mn.sort()
+mn.sort(compare)
 console.log(mn)
-
