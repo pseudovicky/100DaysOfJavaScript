@@ -19,4 +19,5 @@ numbers.length -> 4
 ### Changing the values
 let numbers = [7, 2, 5, 40, 9]
 numbers[3] = 8
- - 
+
+In javascript , arrays are objects the typeof operator on arrayss returns object.
