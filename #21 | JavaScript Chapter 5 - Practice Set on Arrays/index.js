@@ -46,3 +46,12 @@ let divArray = array3.filter((x)=>{
   }
 })
 console.log(divArray)
+
+// problem 4 solution
+
+let array4 = [1,2,3,4,5,6,7,8,9,10]
+let squareArray = array4.map((i)=>{
+  sq = i*i
+  return sq
+})
+console.log(array4,squareArray)
