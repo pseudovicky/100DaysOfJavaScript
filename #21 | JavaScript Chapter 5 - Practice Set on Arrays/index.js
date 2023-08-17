@@ -55,3 +55,11 @@ let squareArray = array4.map((i)=>{
   return sq
 })
 console.log(array4,squareArray)
+
+// problem 5 solution
+
+let array5 = [1,2,3,4,5,6,7,8]
+let factorial = array5.reduce((x1,x2)=>{
+  return x1 * x2
+})
+console.log(factorial)
