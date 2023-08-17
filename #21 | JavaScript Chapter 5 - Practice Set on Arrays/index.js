@@ -35,3 +35,14 @@ while(keepadding){
   }  
 }
 console.log(array2)
+
+// problem 3 solution
+
+array3 = [10,12,13,24,20,50,65,87,56,67,23,100]
+
+let divArray = array3.filter((x)=>{
+  if(x%10==0){
+   return x
+  }
+})
+console.log(divArray)
