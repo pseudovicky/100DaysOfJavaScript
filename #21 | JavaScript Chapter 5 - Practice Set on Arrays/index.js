@@ -20,3 +20,18 @@ for(let i=0;i<n;i++){
   array1.push(num)
 }
 console.log("This is your final array = ", array1)
+
+
+// problem 2 solution 
+
+array2 = []
+keepadding = true
+while(keepadding){
+  additem = prompt("add item value: ")
+  if(additem!=0){
+    array2.push(additem)
+  }else{
+    keepadding = false
+  }  
+}
+console.log(array2)
