@@ -3,7 +3,7 @@
 JavaScrript was initially created to make web pages alive. JS can be written right in a web page's HTML to make it interative.
 The browser has an enbedded engine called the JavaScript engine or the JavaScript runtime.
 
-JavaScript's ability in the browser is very limited to protect the user's safety. for example a webpage an http://google.com cannot acess htttp://codeswear.com and steal information from there.
+JavaScript's ability in the browser is very limited to protect the user's safety. for example a webpage an http://goofle.com cannot acess htttp://codeswear.com and steal information from there.
 
 ### Developer tools
 Every browser has same developer tools which makes a developer's life a lot easier.
