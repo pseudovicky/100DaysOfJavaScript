@@ -13,3 +13,12 @@ Dom represent the page content as HTML
 document.body -> page body ad Js Object
 document.body.style.background = "green"
            |-> changes page background to green
+
+## BOM (Browser Object Model):
+
+The browser Object model (BOM) represents additional 
+objects provided by the browser (host invoernment )
+for working with everything except the document
+
+The fuctions alert/confirm/prompt are also a part of the BOM.
+  Location href = "www.google.com" -> Redirect to another URL
