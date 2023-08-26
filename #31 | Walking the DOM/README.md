@@ -12,3 +12,16 @@ Arext node is always a leaf of a tree
 
 ### Auto Correction :
 
+If an erroneous HTML is encountered by the browser, it tends to correct it for example, if we put something after the body, it is automatically moved inside the body . Another example is <table> tag which must contain <tbody>.
+
+## walking the DOM :
+
+<html>
+<head>
+    <title>hello</title> <!--[document body ] -->
+</head>
+<dody>
+<!-- Document - More children -->
+</body>
+</html>
+
