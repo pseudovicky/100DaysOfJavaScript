@@ -19,7 +19,4 @@ The parent is available as parentNode.
 alert(document.documentElement.parentNode); //document
 alert (document.documentElement.parentElement) //null
 
-### Element only Navigation
-Sometimes we dont want text or comment nodes. Some links only take Element notes into account. For example 
 
-document.previousElementSibling -> previous sibling which is an Element
