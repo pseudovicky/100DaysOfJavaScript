@@ -25,3 +25,14 @@ If an erroneous HTML is encountered by the browser, it tends to correct it for e
 </body>
 </html>
 
+Note: document body can sometimes be null if the javascript is written before the body tag.
+
+### Children of an element :-
+
+Direct as well as deeply nested elements of an element are called its children.
+
+Child nodes -> Elements that are direct children for example head & body are children for example head & body are children of <html>.
+
+Descendant nodes -> All nested elements, children, their children and so on...
+
+
