@@ -17,8 +17,8 @@ A efficient version of elem.querySelectorAll  (CSS) [0]
 ### document.getElementByTagName
 Returns elements with the given tag name
 
-### document.getElementsByClassName
+### document.getElementsByClassName 
 Return elements that have the given CSS class
-
+<!-- Dont forget the "s" letter -->
 ### document.getElementsByName 
 Select elements by the name attribute
