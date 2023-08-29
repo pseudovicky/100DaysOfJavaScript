@@ -18,3 +18,11 @@ For example:
 let timeId = setTimeout(c => alert("never"),1000 ),
 clearTimeout(timer Id) - cancle the execution
 
+# setInterval method has a similar syntax as setTimeout : 
+
+let timerId = setInterval (function, <delay>, <aer1>, <arg2> )
+
+All arguments have the same meaning. But unlike setTimeout, it runs the function not only once, but regularly after the given interval of time.
+
+To stop further calls, we can use clearInterval(timer)
+
