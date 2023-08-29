@@ -17,6 +17,11 @@ Here are some more insertion methods:
 
 3. node.before(e) - Insert before node
 
-4. node.after(e) 
+4. node.after(e) - Insert after node
 
-5. node.replaceWith(e)
+5. node.replaceWith(e) - replace node with the given node 
+
+<!-- tast  -->
+Quick Quiz : Try out all these methods with your own webpage.
+
+
