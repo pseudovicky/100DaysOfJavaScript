@@ -17,4 +17,6 @@ Here are some more insertion methods:
 
 3. node.before(e) - Insert before node
 
+4. node.after(e) 
 
+5. node.replaceWith(e)
