@@ -1,7 +1,7 @@
 
-
-
 let x = function(e){
+    console.log(e.target) // console
+    console.log(e) // console output
     alert("Hello World1!")
 }
 
