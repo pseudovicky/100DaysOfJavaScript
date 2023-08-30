@@ -6,6 +6,7 @@ element.addEventListener(event, handler)
 element.removeEventListener(event, handler)
                    |- handler must be the same function object for this to work
 
+
 # The Event Object
 When an event happens, the browser create an event object, puts details into it and passes it as an argument to the handler.
 
