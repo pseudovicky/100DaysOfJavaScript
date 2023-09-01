@@ -29,7 +29,7 @@
         p{
             color: grey;
             font-family: Arial, Helvetica, sans-serif;
-            font-size: 80px;
+            font-size: 60px;
             text-align: center;
             margin: 0 auto;
         }
@@ -41,17 +41,13 @@
     
     <!-- Create a clock using JS setInterval method. -->
     <div>
-        <p id="day">Sunday</p>
-        <p id="date">1 Sep 2023</p>
-        <p id="time">00:00 AM</p>
+        <p id="clock"></p>
         
     </div>
 
     <script>
+        document.getElementById("clock").innerHTML = Date()
         
-        let day = document.getElementById("day")
-        let date = documen.getElementById("date")
-        let time = documen.getElementById("time")
 
     </script>
 </body>
