@@ -17,3 +17,7 @@ reject(error) -> if the job fails
 The promise object returned by the new promise constructor has these properties.
 
 1. state: Initially pending, them changes to either 'fulfiled' when resolve is called or 'rejected'.
+
+2. result: Initially undefined, them changes to value if resolved or error when rejected. 
+reject(error)
+resolve(value)
