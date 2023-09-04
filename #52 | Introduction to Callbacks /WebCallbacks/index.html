@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            width: 100%;
+            height: 100%;
+            font-size: 24px;
+            font-family: 'Times New Roman', Times, serif;
+            color: green;
+        }
+
+    </style>
+</head>
+<body>
+    Hello World
+
+
+    <script>
+        function loadScript(src, callback){
+        var script = document.createElement("script");
+        script.src = src;
+        script.onload = function() {
+            console.log("Loded script with SRC: " + src);
+            callback(src);
+        }
+        document.body.appendChild(script);
+    }
+
+    function goodmorning(src){
+        alert('Good morning! ' + src);
+    }
+    function hello(src){
+        alert("Hello Wolrd!" + src);
+    }
+
+    loadScript("https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js", hello);
+
+    </script>
+</body>
+</html>
