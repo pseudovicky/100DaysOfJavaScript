@@ -25,7 +25,11 @@
         script.src = src;
         script.onload = function() {
             console.log("Loded script with SRC: " + src);
-            callback(src);
+            callback(null, src);
+        }
+        script.onerror = function() {
+            console.log("Error loading script with SRC: " + src);
+            callback(new Error ("SRC got an error "));
         }
         document.body.appendChild(script);
     }
@@ -33,11 +37,18 @@
     function goodmorning(src){
         alert('Good morning! ' + src);
     }
-    function hello(src){
+    function hello(error, src){
+        if(error){
+        console.log(error);
+        return
+        }    
         alert("Hello Wolrd!" + src);
     }
 
-    loadScript("https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js", hello);
+    // loadScript("https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js", hello);
+    // if website not exist.
+    loadScript("https://viki.cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js", hello);
+
 
     </script>
 </body>
