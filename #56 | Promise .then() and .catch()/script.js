@@ -7,7 +7,10 @@ let p1 = new Promise((resolve, reject) => {
     }, 5000)
 })
 
+
 console.log(p1)
+
+// to get the value 
 p1.then((value)=>{
     console.log(value)
 })
@@ -23,11 +26,21 @@ let p2 = new Promise((resolve, reject) => {
     }, 5000)
 })
 
+// to get the value
 console.log(p2)
 p2.then((value)=>{
     console.log(value)
 })
 
+// to catch the errors
 p2.catch((error)=>{
     console.log('Some error occurred in p2.')
+})
+
+// or we can write this on this format . 
+
+p2.then((value)=>{
+    console.log(value)
+},(error)=>{
+    console.log(error)
 })
