@@ -14,4 +14,6 @@ especially if we have real code instead of ...
 
 This is sometimes called "Callback hell" or "Pyramid of Doom"
 
-The "pyramid" of these calls grows to wards the right with every asynchronous action. Soon it ssbirals out of control. so
+The "pyramid" of these calls grows towards the right with every asynchronous action. Soon it spirals out of control. so this way of coding isn't good!
+
+
