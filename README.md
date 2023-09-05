@@ -29,3 +29,4 @@ The Ultimate Java Script Course for Beginners by CodeWithHarry.
 28. DOM, BOM & Window Object
 29. JavaScript Chapter 6 - Practice Set
 31. Walking the DOM
+32. Accessing Children of an Element
