@@ -17,3 +17,4 @@ The Ultimate Java Script Course for Beginners by CodeWithHarry.
 15. JavaScript Chapter 4 - Practice Set on Strings
 16. Introduction to Arrays
 17. JavaScript Array Methods
+18. Some More JavaScript Array Methods
