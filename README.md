@@ -23,3 +23,4 @@ The Ultimate Java Script Course for Beginners by CodeWithHarry.
 21. JavaScript Chapter 5 - Practice Set on Arrays
 22. Exercise 1 - Guess the Number
 23. JavaScript in the Browser
+24. JavaScript Script Tag
