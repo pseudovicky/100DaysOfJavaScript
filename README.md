@@ -24,3 +24,4 @@ The Ultimate Java Script Course for Beginners by CodeWithHarry.
 22. Exercise 1 - Guess the Number
 23. JavaScript in the Browser
 24. JavaScript Script Tag
+25. JavaScript Console Object
