@@ -28,3 +28,4 @@ The Ultimate Java Script Course for Beginners by CodeWithHarry.
 27. JavaScript alert, prompt & confirm
 28. DOM, BOM & Window Object
 29. JavaScript Chapter 6 - Practice Set
+31. Walking the DOM
