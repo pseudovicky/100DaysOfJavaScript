@@ -27,3 +27,4 @@ The Ultimate Java Script Course for Beginners by CodeWithHarry.
 25. JavaScript Console Object
 27. JavaScript alert, prompt & confirm
 28. DOM, BOM & Window Object
+29. JavaScript Chapter 6 - Practice Set
