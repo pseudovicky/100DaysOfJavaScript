@@ -19,3 +19,4 @@ The Ultimate Java Script Course for Beginners by CodeWithHarry.
 17. JavaScript Array Methods
 18. Some More JavaScript Array Methods
 19. Using Loops With Arrays in JavaScript
+20. Map, Filter & Reduce in JavaScript
