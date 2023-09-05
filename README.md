@@ -25,3 +25,4 @@ The Ultimate Java Script Course for Beginners by CodeWithHarry.
 23. JavaScript in the Browser
 24. JavaScript Script Tag
 25. JavaScript Console Object
+27. JavaScript alert, prompt & confirm
