@@ -32,3 +32,4 @@ The Ultimate Java Script Course for Beginners by CodeWithHarry.
 32. Accessing Children of an Element
 33. Parents & Siblings of an Element
 34. Element only Navigation 
+35. Table Navigation
