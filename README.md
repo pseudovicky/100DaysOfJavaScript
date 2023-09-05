@@ -18,3 +18,4 @@ The Ultimate Java Script Course for Beginners by CodeWithHarry.
 16. Introduction to Arrays
 17. JavaScript Array Methods
 18. Some More JavaScript Array Methods
+19. Using Loops With Arrays in JavaScript
