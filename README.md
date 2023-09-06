@@ -36,3 +36,4 @@ The Ultimate Java Script Course for Beginners by CodeWithHarry.
 36. Searching the DOM
 37. matches, closest and contains
 38. JavaScript Chapter 7 - Practice Set
+39. JavaScript Exercise 2: Solution & Shoutouts
