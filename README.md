@@ -39,3 +39,4 @@ The Ultimate Java Script Course for Beginners by CodeWithHarry.
 39. JavaScript Exercise 2: Solution & Shoutouts
 40. Exercise 3 - Tell me a 
 41. innerHTML, outerHTML and other properties
+42. HTML Attributes and their methods
