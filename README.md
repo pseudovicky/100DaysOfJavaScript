@@ -44,3 +44,4 @@ The Ultimate Java Script Course for Beginners by CodeWithHarry.
 44. insertAdjacentHTML, insertAdjacentElement and 
 45. Changing HTML Classes using JavaScript: className and classList
 46. setInterval and setTimeout in JavaScript 
+47. Introduction to Browser Events 
