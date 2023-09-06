@@ -37,4 +37,5 @@ The Ultimate Java Script Course for Beginners by CodeWithHarry.
 37. matches, closest and contains
 38. JavaScript Chapter 7 - Practice Set
 39. JavaScript Exercise 2: Solution & Shoutouts
-40. Exercise 3 - Tell me a Joke
+40. Exercise 3 - Tell me a 
+41. innerHTML, outerHTML and other properties
