@@ -51,3 +51,4 @@ The Ultimate Java Script Course for Beginners by CodeWithHarry.
 51. Exercise 4: Clock using 
 52. Introduction to Callbacks 
 53. Callback Hell & Pyramid of Doom
+54. Introduction to Promises
