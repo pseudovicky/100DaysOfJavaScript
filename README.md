@@ -45,3 +45,4 @@ The Ultimate Java Script Course for Beginners by CodeWithHarry.
 45. Changing HTML Classes using JavaScript: className and classList
 46. setInterval and setTimeout in JavaScript 
 47. Introduction to Browser Events 
+48. Handling Browser Events
