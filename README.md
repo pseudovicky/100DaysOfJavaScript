@@ -47,3 +47,4 @@ The Ultimate Java Script Course for Beginners by CodeWithHarry.
 47. Introduction to Browser Events 
 48. Handling Browser Events
 49. JavaScript Chapter 8 - Practice Set
+50. Exercise 3: Solution
