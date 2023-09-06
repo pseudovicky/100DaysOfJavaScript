@@ -48,4 +48,5 @@ The Ultimate Java Script Course for Beginners by CodeWithHarry.
 48. Handling Browser Events
 49. JavaScript Chapter 8 - Practice Set
 50. Exercise 3: Solution
-51. Exercise 4: Clock using JavaScript
+51. Exercise 4: Clock using 
+52. Introduction to Callbacks 
