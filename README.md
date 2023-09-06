@@ -33,3 +33,4 @@ The Ultimate Java Script Course for Beginners by CodeWithHarry.
 33. Parents & Siblings of an Element
 34. Element only Navigation 
 35. Table Navigation
+36. Searching the DOM
