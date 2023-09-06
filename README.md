@@ -34,3 +34,4 @@ The Ultimate Java Script Course for Beginners by CodeWithHarry.
 34. Element only Navigation 
 35. Table Navigation
 36. Searching the DOM
+37. matches, closest and contains
