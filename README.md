@@ -41,3 +41,4 @@ The Ultimate Java Script Course for Beginners by CodeWithHarry.
 41. innerHTML, outerHTML and other properties
 42. HTML Attributes and their 
 43. HTML Insertion Methods
+44. insertAdjacentHTML, insertAdjacentElement and insertAdjacentText
