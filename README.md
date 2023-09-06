@@ -35,3 +35,4 @@ The Ultimate Java Script Course for Beginners by CodeWithHarry.
 35. Table Navigation
 36. Searching the DOM
 37. matches, closest and contains
+38. JavaScript Chapter 7 - Practice Set
