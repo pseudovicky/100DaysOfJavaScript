@@ -14,4 +14,7 @@ p1.then((value)=>{
     return p2
 }).then((value)=>{
     console.log("We are done")
+    return 2
+}).then((value)=>{
+    console.log("Now we are pakka done")
 })
