@@ -1,7 +1,7 @@
 # Promises Chaining -
 We can chain promises and make them pass the resolved values to one another like this
 
-Syntax: 
+### Syntax: 
 
 p.then(function(result)=>{        // p is a promise
     alert(result); 
@@ -19,4 +19,12 @@ there is the flow of execution
 
 Every call to .then() returns a new promise whose values is passed to the next one and so on. we can even create custom promises inside then().
 
-Attaching multiple 
+## Attaching multiple handlers :
+We can attach multiple handlers to one promise. they dont pass the result to each other; instead they process it independently.
+
+let p is a promise
+
+p.then(handler 1)   \
+p.then(handler 2)    | Runs Independently
+p.then(handler 3)   /
+
