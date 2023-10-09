@@ -53,4 +53,5 @@ The Ultimate Java Script Course for Beginners by CodeWithHarry.
 53. Callback Hell & Pyramid of Doom
 54. Introduction to Promises
 55. Promise .then() and .catch()
+
 56. Promise Chaining .then() calls 
