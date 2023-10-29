@@ -34,3 +34,12 @@ const loadScript = (src)=>{
 }
 
 
+let p3 = loadScript("https://localhost:3000/index.js")
+p3.then((value)=>{
+    console.log(value)
+    return loadScript('https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js')
+}).then((value) => {
+    console.log("Second script ready")
+}).catch((error) => {
+    console.log("We are sorry but we are having problems loading this script")
+})
