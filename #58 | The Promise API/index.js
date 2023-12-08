@@ -27,3 +27,8 @@ p2.then((value)=>{
 p3.then((value)=>{
     console.log(value);
 })
+
+let Promise_all = Promise.all([p1, p2, p3])
+Promise_all.then((value)=>{
+    console.log(value)
+})
