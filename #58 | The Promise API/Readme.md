@@ -1,4 +1,5 @@
 # Promise API
+
 ## There are 6 static methods of promise class:
 
 1. Promise.all(promises) - waits for all promises to resolve and returns the array of their results if any one fails, it becomes the error & all other results are ignored.
@@ -13,4 +14,4 @@
 
 6. Promise.reject(error) - makes a rejected promise with the given error.
 
-Quick Quig :  Try these promise APIs on your custom promises.
+Quick Quig : Try these promise APIs on your custom promises.
