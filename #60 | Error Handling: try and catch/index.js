@@ -4,8 +4,22 @@ console.log('hacking wifi......... please wait..............')
 
 // console.log(rahul) // handle this error
 
+
+// error handled
+
+// try{
+//     console.log(rahul) // handle this error
+// } catch (error){
+//     console.log('Balle Balle')
+// }
+
+
+// non handling error
+
 try{
-    console.log(rahul) // handle this error
+    setTimeout(()=>{
+        console.log(rahul) 
+    },1000)
 } catch (error){
     console.log('Balle Balle')
 }

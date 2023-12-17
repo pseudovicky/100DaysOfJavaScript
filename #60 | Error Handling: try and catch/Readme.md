@@ -9,7 +9,7 @@ The try catch syntax has two main blocks:
 try and then catch 
 
 try {
-    // try the code 
+    // try the code  
 } catch(error){      // The error variable contain an error object
     // error handling       
 } 
