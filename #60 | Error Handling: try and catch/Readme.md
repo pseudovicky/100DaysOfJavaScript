@@ -9,5 +9,8 @@ The try catch syntax has two main blocks:
 try and then catch 
 try {
     // try the code 
-}
+} catch(error){
+    //
+} 
+
  
