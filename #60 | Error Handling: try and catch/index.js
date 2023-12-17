@@ -1,5 +1,5 @@
-setTimeout (()=>{
-console.log('hacking wifi......... please wait..............')
+setTimeout(() => {
+    console.log('hacking wifi......... please wait..............')
 }, 1000)
 
 // console.log(rahul) // handle this error
@@ -16,26 +16,26 @@ console.log('hacking wifi......... please wait..............')
 
 // non handling error
 
-try{
-    setTimeout(()=>{
-        console.log(rahul) 
-    },1000)
-} catch (error){
+try {
+    setTimeout(() => {
+        console.log(rahul)
+    }, 1000)
+} catch (error) {
     console.log('Balle Balle')
 }
 
-setTimeout (()=>{
+setTimeout(() => {
     console.log('hacking wifi......... please wait..............')
     console.log('Fetching username and password....... please wait..........')
-    }, 2000)
+}, 2000)
 
-setTimeout (()=>{
+setTimeout(() => {
     console.log('Fetching username and password....... please wait..........')
     console.log('hacking wifi......... please wait..............')
     console.log('hacking wifi......... please wait..............')
     console.log('hacking wifi......... please wait..............')
 }, 3000)
 
-setTimeout (()=>{
+setTimeout(() => {
     console.log('Wifi Hacked !! ')
-    }, 5000)
+}, 5000)
