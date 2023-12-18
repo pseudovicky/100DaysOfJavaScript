@@ -3,11 +3,11 @@ try {
     console.log('program ran successfully.');
     console.log(Program);
     console.log('program ran successfully.');
-} 
+}
 
-catch(err){
+catch (err) {
     console.log('There is an error.')
-    console.log(error-hu-main)
+    console.log(error - hu - main)
 }
 
 finally {
@@ -26,9 +26,9 @@ finally {
 const f = () => {
     try {
         console.log('mao mao');
-        return 
+        return
     }
-    catch (err){
+    catch (err) {
         console.log('nihao');
         console.log('error aaya hai');
     }
