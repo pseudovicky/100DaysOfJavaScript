@@ -124,11 +124,11 @@ let p3 = async () =>{
 
 const run = async () =>{
     console.time('run')
-    let a1 = await p1()
+    let a1 = await p1();  // fetch first 10 products from the database
     console.log(a1);
-    let a2 = await p2()
+    let a2 = await p2()  // fetch another 10 products from the database
     console.log(a2);
-    let a3 = await p3()
+    let a3 = await p3() // fetch yet another 10 products from the database
     console.log(a3);
     console.timeEnd("run");
 }
