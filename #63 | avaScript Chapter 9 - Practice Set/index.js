@@ -1,20 +1,21 @@
 // Qs 1. Write a program to load a javaScript file in a browser using promises. Use .then()
 //  to display an alert when the load is complete.
-const loadScript = async(src)=>{
-    return new Promise((resolve, reject)=>{
-        let script = document.createElement("script");
-        script.src  = src
-        script.onload = ()=>{
-            resolve(src + " Done Success !");
-        }
-        document.head.append(script);
-    })
-}
 
-let a = await loadScript("https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js");
-a.then((value) =>{
-    console.log(value);
-})
+// const loadScript = async(src)=>{
+//     return new Promise((resolve, reject)=>{
+//         let script = document.createElement("script");
+//         script.src  = src
+//         script.onload = ()=>{
+//             resolve(src + " Done Success !");
+//         }
+//         document.head.append(script);
+//     })
+// }
+
+// let a = await loadScript("https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js");
+// a.then((value) =>{
+//     console.log(value);
+// })
 
 
 // Qs 2. Write a same program for previous Question and use async / await syntax. 
@@ -56,6 +57,43 @@ a.then((value) =>{
 
 // Qs 3. Create a promise which rejects after 3 seconds. use an async / await to get its value. 
 //  use a try catch to handle its error.
+
+const loadScript = async(src)=>{
+    return new Promise((resolve, reject)=>{
+        let script = document.createElement("script");
+        script.src  = src
+        script.onload = ()=>{
+            resolve(src + " Done Success !");
+        }
+        document.head.append(script);
+    })
+}
+
+let p = ()  => {
+return new Promise((resolve, reject)=>{
+    setTimeout(()=>{
+        reject(new Error('Please this is not acceptable'));
+    }, 3000)
+  })
+}
+
+let a = async () => {
+    try{
+        let c = await p()
+        console.log(c)
+    }
+    catch(err){
+        console.log('this error have been handled.');
+    }
+  }
+a();
+
+// Promise 
+// {<pending>}[[Prototype]]: 
+// Promise[[PromiseState]]: "fulfilled"
+// [[PromiseResult]]: undefined
+//  this error have been handled. 
+
 
 //  Qs 4. Write a program using promise. all() inside an async/await to await 3 promises. 
 //  compare its results with the case where we await these promises one by one.
