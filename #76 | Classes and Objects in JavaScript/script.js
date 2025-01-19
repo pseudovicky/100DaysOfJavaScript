@@ -22,8 +22,10 @@ let rohanForm2 = new RailWayForm()
 // fill the form with details 
 rohanForm1.fill("Rohan", 34876)
 rohanForm2.fill("Rohan", 98420)
+rohanForm3.fill("Rohan", 12345)
 
 vickyForm.submit()
 rohanForm1.submit()
 rohanForm2.submit()
+rohanForm3.submit()
 rohanForm1.cancel()
